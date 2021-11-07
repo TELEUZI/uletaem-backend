@@ -21,8 +21,10 @@
     "strapi-plugin-email": "3.6.8",
     "strapi-plugin-graphql": "^3.6.8",
     "strapi-plugin-i18n": "3.6.8",
+    "strapi-plugin-mongodb-files": "^3.1.6",
     "strapi-plugin-upload": "3.6.8",
     "strapi-plugin-users-permissions": "3.6.8",
+    "strapi-provider-upload-mongodb": "^3.1.1",
     "strapi-utils": "3.6.8"
   },
   "author": {
@@ -32,7 +34,7 @@
     "uuid": "f6cfcb04-c199-47b9-89bd-a9fc048e76d1"
   },
   "engines": {
-    "node": ">=10.16.0 <=14.x.x",
+    "node": ">=10.16.0 <=16.x.x",
     "npm": "^6.0.0"
   },
   "license": "MIT"
