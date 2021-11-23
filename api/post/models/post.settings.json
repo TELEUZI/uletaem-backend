@@ -16,7 +16,8 @@
       "type": "string"
     },
     "content": {
-      "type": "richtext"
+      "type": "richtext",
+      "required": true
     },
     "excerpt": {
       "type": "string"
